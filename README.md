@@ -20,7 +20,7 @@ Built for the **Build2Break Hackathon**
 
 ## Deployed website
 
-### https://ai-hr-management-portal-build2-brea.vercel.app/
+### ai-hr-management-portal-build2-brea.vercel.app/
 
 ---
 
