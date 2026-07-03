@@ -31,17 +31,17 @@ Built for the **Build2Break Hackathon**
 <table>
 <tr><td colspan="2"><b>Correct responses from the policy PDF</b> when the question's context is present in the document</td></tr>
 <tr>
-<td><img src="docs/screenshots/policyqap1.png" alt="Policy Q&A – positive case 1" width="400"/></td>
-<td><img src="docs/screenshots/policyqap2.png" alt="Policy Q&A – positive case 2" width="400"/></td>
+<td><img src="docs/screenshots/policyqap1.png" alt="Policy Q&A – positive case 1" width="500"/></td>
+<td><img src="docs/screenshots/policyqap2.png" alt="Policy Q&A – positive case 2" width="500"/></td>
 </tr>
 <tr><td colspan="2"><b>Correctly responds "not mentioned in the policy document"</b> when the question's context is absent from the document</td></tr>
 <tr>
-<td><img src="docs/screenshots/policyqan1.png" alt="Policy Q&A – negative case 1" width="400"/></td>
-<td><img src="docs/screenshots/policyqan2.png" alt="Policy Q&A – negative case 2" width="400"/></td>
+<td><img src="docs/screenshots/policyqan1.png" alt="Policy Q&A – negative case 1" width="500"/></td>
+<td><img src="docs/screenshots/policyqan2.png" alt="Policy Q&A – negative case 2" width="500"/></td>
 </tr>
 <tr><td colspan="2"><b>Handles a hallucination-inducing question correctly</b></td></tr>
 <tr>
-<td><img src="docs/screenshots/policyqah1.png" alt="Policy Q&A – hallucination test" width="400"/></td>
+<td><img src="docs/screenshots/policyqah1.png" alt="Policy Q&A – hallucination test" width="500"/></td>
 <td></td>
 </tr>
 </table>
