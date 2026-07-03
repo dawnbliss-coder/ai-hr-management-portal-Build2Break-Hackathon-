@@ -49,19 +49,21 @@ Built for the **Build2Break Hackathon**
 ### Resume Scoring Engine
 
 <table>
-<tr><td><b>Resume is highly relevant to the applied job role</b></td></tr>
-<tr><td><img src="docs/screenshots/resumescoringp1.png" alt="Resume scoring – strong match" width="500"/></td></tr>
-<tr><td><b>Resume is not relevant to the applied job role</b></td></tr>
-<tr><td><img src="docs/screenshots/resumescoringn1.png" alt="Resume scoring – weak match" width="500"/></td></tr>
+<tr><td colspan="2"><b>Resume is highly relevant to the applied job role</b>Resume is not relevant to the applied job role</td></tr>
+<tr>
+<td><img src="docs/screenshots/resumescoringp1.png" alt="Resume scoring – strong match" width="500"/></td>
+<td><img src="docs/screenshots/resumescoringn1.png" alt="Resume scoring – weak match" width="500"/></td>
+</tr>
 </table>
 
 ### Onboarding Roadmap Generator
 
 <table>
-<tr><td><b>Resume is highly relevant to the applied job role</b></td></tr>
-<tr><td><img src="docs/screenshots/onboardingp1.png" alt="Onboarding roadmap – strong match" width="500"/></td></tr>
-<tr><td><b>Resume is not relevant to the applied job role</b></td></tr>
-<tr><td><img src="docs/screenshots/onboardingn1.png" alt="Onboarding roadmap – weak match" width="500"/></td></tr>
+<tr><td colspan="2"><b>Resume is highly relevant to the applied job role</b>Resume is not relevant to the applied job role</td></tr>
+<tr>
+<td><img src="docs/screenshots/onboardingp1.png" alt="Onboarding roadmap – strong match" width="500"/></td>
+<td><img src="docs/screenshots/onboardingn1.png" alt="Onboarding roadmap – weak match" width="500"/></td>
+</tr>
 </table>
 
 ---
